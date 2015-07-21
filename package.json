@@ -1,0 +1,23 @@
+{
+  "name": "@weo-edu/education-tags",
+  "description": "Education tags for Weo",
+  "repository": "git://github.com/weo-edu/khaos-node.git",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "@weo-edu/grades": "^0.1.0",
+    "@weo-edu/standards": "^0.1.1",
+    "@weo-edu/subjects": "^0.1.1"
+  },
+  "devDependencies": {
+    "@weo-edu/schema-tag": "^0.1.4",
+    "@weo-edu/validate": "^2.12.4",
+    "mocha": "2.x",
+    "standard": "^4.0.0"
+  },
+  "engines": {
+    "node": "~0.10.38",
+    "npm": "~2.9.0"
+  }
+}
