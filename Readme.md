@@ -1,7 +1,7 @@
 
 # education-tags
 
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+[ ![Codeship Status for weo-edu/education-tags](https://img.shields.io/codeship/f896fcd0-121f-0133-9932-022a2a1e39dc/master.svg)](https://codeship.com/projects/92480) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 Education tags for Weo
 
