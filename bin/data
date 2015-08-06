@@ -1,0 +1,14 @@
+#!/usr/bin/env node
+
+var tags = require('..')
+var mkdirp = require('mkdirp')
+var fs = require('fs')
+var snakeCase = require('snake-case')
+var R = require('ramda')
+
+tags = tags.map(function(tag) {
+  return R.zipObj(R.keys(tag).map(snakeCase), R.values(tag))
+})
+
+mkdirp.sync('data')
+fs.writeFileSync('data/tags.json', JSON.stringify(tags))
