@@ -1,7 +1,7 @@
 {
   "name": "@weo-edu/education-tags",
   "description": "Education tags for Weo",
-  "repository": "git://github.com/weo-edu/khaos-node.git",
+  "repository": "git://github.com/weo-edu/education-tags.git",
   "version": "0.1.0",
   "license": "MIT",
   "main": "lib/index.js",
