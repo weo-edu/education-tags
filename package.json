@@ -8,7 +8,7 @@
   "dependencies": {
     "@weo-edu/grades": "^0.1.0",
     "@weo-edu/standards": "^0.1.1",
-    "@weo-edu/subjects": "^0.1.4",
+    "@weo-edu/subjects": "^0.1.4"
   },
   "devDependencies": {
     "@weo-edu/schema-tag": "^0.1.4",
